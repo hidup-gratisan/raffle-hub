@@ -24,3 +24,6 @@ env
 *.njsproj
 *.sln
 *.sw?
+
+# MCP config with secrets
+github_mcp_config.json
